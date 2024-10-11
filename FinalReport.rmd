@@ -89,9 +89,23 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The inferential results show the chi-squared test has a p value of 0.00000000000000022 is lower the 0.05, so we will reject the null hypothesis. 
+The fisher results show the p value 0.00000000000000022 is lower the 0.05, so we will reject the null hypothesis.   
+
 ## More data version
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Is attitude toward capitol punishment (cappun) independent of race (race)?
+If not, then whose view differs from whom?  
+
+In conclusion 
+This bar chart shows on average more white people favored capitol punishment over black and other races.  
+The numerical data shows the 65.10% of white people favor capitol punishment while 34.90% oppose it.
+The inferential results show the chi-squared test has a p value of 0.00000000000000022 is lower the 0.05, so we will reject the null hypothesis. 
+The fisher results show the p value 0.00000000000000022 is lower the 0.05, 
+Therefore, we will reject the null hypothesis since the p value is lower than 0.05
+
