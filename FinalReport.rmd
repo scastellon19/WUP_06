@@ -83,6 +83,11 @@ Therefore the results show that between the races white people favor capitol pun
 
 `
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 ## More data version
 
